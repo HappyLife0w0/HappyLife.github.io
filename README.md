@@ -1,2 +1,2 @@
-# HappyLife.github.io
+# Happy Life
 My first site.
